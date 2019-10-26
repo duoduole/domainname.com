@@ -1,2 +1,2 @@
-# domainname.com
+# lixun.xyz
 my blog
