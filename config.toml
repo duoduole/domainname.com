@@ -40,3 +40,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     height = 50
     alt = "Logo"
 
+[blackfriday]
+  extensionsmask = ["noIntraEmphasis"]
